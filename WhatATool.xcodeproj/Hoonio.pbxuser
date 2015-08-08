@@ -1,0 +1,246 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E4C8064711337F520065F546 /* WhatATool */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* WhatATool */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* WhatATool */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = E4C8064E11337F710065F546 /* Code sense */;
+		executables = (
+			E4C8064711337F520065F546 /* WhatATool */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					627,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 289499283;
+			PBXWorkspaceStateSaveDate = 289499283;
+		};
+		perUserProjectItems = {
+			E4C80676113446420065F546 /* PBXTextBookmark */ = E4C80676113446420065F546 /* PBXTextBookmark */;
+			E4D7124E11413A5E001985D1 /* PBXTextBookmark */ = E4D7124E11413A5E001985D1 /* PBXTextBookmark */;
+			E4D7127611414606001985D1 /* PBXTextBookmark */ = E4D7127611414606001985D1 /* PBXTextBookmark */;
+			E4D7141111417859001985D1 /* PBXTextBookmark */ = E4D7141111417859001985D1 /* PBXTextBookmark */;
+			E4D7141211417859001985D1 /* PBXTextBookmark */ = E4D7141211417859001985D1 /* PBXTextBookmark */;
+			E4D7141311417859001985D1 /* PBXTextBookmark */ = E4D7141311417859001985D1 /* PBXTextBookmark */;
+			E4D7141411417859001985D1 /* PBXTextBookmark */ = E4D7141411417859001985D1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E4C8064D11337F710065F546 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* WhatATool.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {805, 1482}}";
+			sepNavSelRange = "{2476, 0}";
+			sepNavVisRange = "{2360, 1379}";
+			sepNavWindowFrame = "{{0, 15}, {950, 951}}";
+		};
+	};
+	32A70AAB03705E1F00C91783 /* WhatATool_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {805, 691}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 160}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* WhatATool */ = {
+		activeExec = 0;
+		executables = (
+			E4C8064711337F520065F546 /* WhatATool */,
+		);
+	};
+	C6859EA3029092ED04C91782 /* WhatATool.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {658, 962}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1649}";
+		};
+	};
+	E4C8064711337F520065F546 /* WhatATool */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WhatATool;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eflags = 1;
+			$es = 1;
+			$fs = 1;
+			$gs = 1;
+			$r10 = 1;
+			$r11 = 1;
+			$r12 = 1;
+			$r13 = 1;
+			$r14 = 1;
+			$r15 = 1;
+			$r8 = 1;
+			$r9 = 1;
+			$rax = 1;
+			$rbp = 1;
+			$rbx = 1;
+			$rcx = 1;
+			$rdi = 1;
+			$rdx = 1;
+			$rip = 1;
+			$rsi = 1;
+			$rsp = 1;
+			$ss = 1;
+		};
+	};
+	E4C8064D11337F710065F546 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E4C8064E11337F710065F546 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E4C80676113446420065F546 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859EA3029092ED04C91782 /* WhatATool.1 */;
+		name = "WhatATool.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1649;
+		vrLoc = 0;
+	};
+	E4D712241138EFD0001985D1 /* PolygonShape.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {805, 687}}";
+			sepNavSelRange = "{38, 0}";
+			sepNavVisRange = "{0, 1064}";
+			sepNavWindowFrame = "{{0, 27}, {950, 951}}";
+		};
+	};
+	E4D712251138EFD0001985D1 /* PolygonShape.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {805, 1287}}";
+			sepNavSelRange = "{2305, 8}";
+			sepNavVisRange = "{1557, 1445}";
+			sepNavWindowFrame = "{{19, 77}, {950, 951}}";
+		};
+	};
+	E4D7124E11413A5E001985D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4D7124F11413A5E001985D1 /* math.h */;
+		name = "math.h: 536";
+		rLen = 69;
+		rLoc = 21435;
+		rType = 0;
+		vrLen = 1977;
+		vrLoc = 20385;
+	};
+	E4D7124F11413A5E001985D1 /* math.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = math.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/usr/include/architecture/i386/math.h;
+		sourceTree = "<absolute>";
+	};
+	E4D7127611414606001985D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* WhatATool_Prefix.pch */;
+		name = "WhatATool_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 160;
+		vrLoc = 0;
+	};
+	E4D7141111417859001985D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4D712251138EFD0001985D1 /* PolygonShape.m */;
+		name = "PolygonShape.m: 75";
+		rLen = 8;
+		rLoc = 2305;
+		rType = 0;
+		vrLen = 1445;
+		vrLoc = 1557;
+	};
+	E4D7141211417859001985D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* WhatATool.m */;
+		name = "WhatATool.m: 59";
+		rLen = 0;
+		rLoc = 2476;
+		rType = 0;
+		vrLen = 1379;
+		vrLoc = 2360;
+	};
+	E4D7141311417859001985D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4D712241138EFD0001985D1 /* PolygonShape.h */;
+		name = "PolygonShape.h: 4";
+		rLen = 0;
+		rLoc = 38;
+		rType = 0;
+		vrLen = 1064;
+		vrLoc = 0;
+	};
+	E4D7141411417859001985D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4D712241138EFD0001985D1 /* PolygonShape.h */;
+		name = "PolygonShape.h: 4";
+		rLen = 0;
+		rLoc = 38;
+		rType = 0;
+		vrLen = 1064;
+		vrLoc = 0;
+	};
+}

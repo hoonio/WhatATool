@@ -1,0 +1,174 @@
+TWhatATool
+v7
+r0
+t289494626.213589
+cCheck dependencies
+cProcessPCH /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o /Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/PolygonShape.o /Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Hoonio/Documents/Apps/WhatATool/build/Debug/WhatATool normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004AB9AA2700000000000013E6
+t1253681703
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004AD8432D0000000000B37440
+t1255686957
+s11760704
+
+N/Users/Hoonio/Documents/Apps/WhatATool/Person.h
+c000000004B88B24300000000000002E9
+t1267249731
+s745
+i<Cocoa/Cocoa.h>
+
+N/Users/Hoonio/Documents/Apps/WhatATool/Person.m
+c000000004B88B81600000000000008AE
+t1267251222
+s2222
+i"Person.h"
+
+N/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.h
+c000000004B910D620000000000000428
+t1267797346
+s1064
+i<Cocoa/Cocoa.h>
+
+N/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.m
+c000000004B911E9B0000000000000BBE
+t1267801755
+s3006
+i"PolygonShape.h"
+
+N/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m
+c000000004B912CC90000000000000E9B
+t1267805385
+s3739
+i<Foundation/Foundation.h>
+i"PolygonShape.h"
+
+N/Users/Hoonio/Documents/Apps/WhatATool/WhatATool_Prefix.pch
+c000000004B8347D200000000000000A0
+t1266894802
+s160
+i<Foundation/Foundation.h>
+
+N/Users/Hoonio/Documents/Apps/WhatATool/build/Debug/WhatATool
+t1267801826
+s22472
+
+N/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/Person.o
+t2
+s0
+
+N/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/PolygonShape.o
+t1267801758
+s22516
+
+N/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.LinkFileList
+c000000004B88BCB500000000000000ED
+t1267252405
+s237
+
+N/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o
+t1267801826
+s20756
+
+N/var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch.gch
+t1266941188
+s41405200
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289494625#289494625#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/Person.o /Users/Hoonio/Documents/Apps/WhatATool/Person.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s288943422.506481
+e288943424.343306
+r0
+xCompileC
+xbuild/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/Person.o
+x/Users/Hoonio/Documents/Apps/WhatATool/Person.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Hoonio/Documents/Apps/WhatATool/Person.m: In function '-[Person initWithNumberOfSides:minimumNumberOfSides:maximumNumberOfSides:]':
+o/Users/Hoonio/Documents/Apps/WhatATool/Person.m:48: warning: control reaches end of non-void function
+o/Users/Hoonio/Documents/Apps/WhatATool/Person.m: In function '-[Person init]':
+o/Users/Hoonio/Documents/Apps/WhatATool/Person.m:55: warning: control reaches end of non-void function
+o/Users/Hoonio/Documents/Apps/WhatATool/Person.m: At top level:
+o/Users/Hoonio/Documents/Apps/WhatATool/Person.m:59: error: expected ':' before 'end'
+o/Users/Hoonio/Documents/Apps/WhatATool/Person.m:59: warning: property 'angleInDegrees' requires method '-angleInDegrees' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Hoonio/Documents/Apps/WhatATool/Person.m:59: warning: property 'angleInRadians' requires method '-angleInRadians' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Hoonio/Documents/Apps/WhatATool/Person.m:59: warning: property 'name' requires method '-name' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@55"Compile /Users/Hoonio/Documents/Apps/WhatATool/Person.m288943422#288943424#0(1144"/Users/Hoonio/Documents/Apps/WhatATool/Person.m: In function '-[Person initWithNumberOfSides:minimumNumberOfSides:maximumNumberOfSides:]':/Users/Hoonio/Documents/Apps/WhatATool/Person.m:48: warning: control reaches end of non-void function/Users/Hoonio/Documents/Apps/WhatATool/Person.m: In function '-[Person init]':/Users/Hoonio/Documents/Apps/WhatATool/Person.m:55: warning: control reaches end of non-void function/Users/Hoonio/Documents/Apps/WhatATool/Person.m: At top level:/Users/Hoonio/Documents/Apps/WhatATool/Person.m:59: error: expected ':' before 'end'/Users/Hoonio/Documents/Apps/WhatATool/Person.m:59: warning: property 'angleInDegrees' requires method '-angleInDegrees' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Hoonio/Documents/Apps/WhatATool/Person.m:59: warning: property 'angleInRadians' requires method '-angleInRadians' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Hoonio/Documents/Apps/WhatATool/Person.m:59: warning: property 'name' requires method '-name' to be defined - use @synthesize, @dynamic or provide a method implementation7(22@40"Control reaches end of non-void function288943423#139#102#0(6@47"/Users/Hoonio/Documents/Apps/WhatATool/Person.m288943420#48#0#48#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function288943423#320#102#0(6@47"/Users/Hoonio/Documents/Apps/WhatATool/Person.m288943420#55#0#55#0#40"control reaches end of non-void function0(23@13"At top level:288943423#422#63#0(6@47"/Users/Hoonio/Documents/Apps/WhatATool/Person.m288943420#0#0#0#0#0"0(4@25"Expected ':' before 'end'288943423#485#85#0(6@47"/Users/Hoonio/Documents/Apps/WhatATool/Person.m288943420#59#0#59#0#19"expected * before *0(22@136"Property 'angleInDegrees' requires method '-angleInDegrees' to be defined - use @synthesize, @dynamic or provide a method implementation288943423#570#198#0(6@47"/Users/Hoonio/Documents/Apps/WhatATool/Person.m288943420#59#0#59#0#0"0(22@136"Property 'angleInRadians' requires method '-angleInRadians' to be defined - use @synthesize, @dynamic or provide a method implementation288943423#768#198#0(6@47"/Users/Hoonio/Documents/Apps/WhatATool/Person.m288943420#59#0#59#0#0"0(22@116"Property 'name' requires method '-name' to be defined - use @synthesize, @dynamic or provide a method implementation288943423#966#178#0(6@47"/Users/Hoonio/Documents/Apps/WhatATool/Person.m288943420#59#0#59#0#0"0(0#0#47"/Users/Hoonio/Documents/Apps/WhatATool/Person.m4300885448#1494"    cd /Users/Hoonio/Documents/Apps/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Hoonio/Documents/Apps/WhatATool/build/Debug -I/Users/Hoonio/Documents/Apps/WhatATool/build/Debug/include -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources/x86_64 -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources -include /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch -c /Users/Hoonio/Documents/Apps/WhatATool/Person.m -o /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/Person.o1#
+
+CCompileC build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/PolygonShape.o /Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s289494556.181662
+e289494558.366036
+r1
+xCompileC
+xbuild/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/PolygonShape.o
+x/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.m: In function '-[PolygonShape init]':
+o/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.m:56: warning: conflicting types for '-(id)init'
+o/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.h:35: warning: previous declaration of '-(void)init'
+lSLF07#2@61"Compile /Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.m289494556#289494558#0(297"/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.m: In function '-[PolygonShape init]':/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.m:56: warning: conflicting types for '-(id)init'/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.h:35: warning: previous declaration of '-(void)init'2(22@33"Conflicting types for '-(id)init'289494558#91#101#0(6@53"/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.m289494555#56#0#56#0#25"conflicting types for '*'0(22@37"Previous declaration of '-(void)init'289494558#192#105#0(6@53"/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.h289490146#35#0#35#0#0"0(0#0#53"/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.m4300885448#1506"    cd /Users/Hoonio/Documents/Apps/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Hoonio/Documents/Apps/WhatATool/build/Debug -I/Users/Hoonio/Documents/Apps/WhatATool/build/Debug/include -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources/x86_64 -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources -include /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch -c /Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.m -o /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/PolygonShape.o0#
+
+CCompileC build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o /Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s289494625.608872
+e289494626.107422
+r1
+xCompileC
+xbuild/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o
+x/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m: In function 'main':
+o/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m:97: warning: multiple methods named '-init' found
+o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:72: warning: using '-(id)init'
+o/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.h:35: warning: also found '-(void)init'
+lSLF07#2@58"Compile /Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m289494625#289494626#0(393"/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m: In function 'main':/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m:97: warning: multiple methods named '-init' found/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:72: warning: using '-(id)init'/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.h:35: warning: also found '-(void)init'3(22@36"Multiple methods named '-init' found289494626#72#101#0(6@50"/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m289494619#97#0#97#0#0"0(22@17"Using '-(id)init'289494626#173#128#0(6@96"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h275374505#72#0#72#0#0"0(22@24"Also found '-(void)init'289494626#301#92#0(6@53"/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.h289490146#35#0#35#0#0"0(0#0#50"/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m4300885448#1500"    cd /Users/Hoonio/Documents/Apps/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Hoonio/Documents/Apps/WhatATool/build/Debug -I/Users/Hoonio/Documents/Apps/WhatATool/build/Debug/include -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources/x86_64 -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources -include /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch -c /Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m -o /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o0#
+
+CLd /Users/Hoonio/Documents/Apps/WhatATool/build/Debug/WhatATool normal x86_64
+s289494626.107507
+e289494626.213542
+r1
+xLd
+x/Users/Hoonio/Documents/Apps/WhatATool/build/Debug/WhatATool
+xnormal
+xx86_64
+lSLF07#2@65"Link /Users/Hoonio/Documents/Apps/WhatATool/build/Debug/WhatATool289494626#289494626#0(0"0(0#0#0"4300885448#528"    cd /Users/Hoonio/Documents/Apps/WhatATool    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Hoonio/Documents/Apps/WhatATool/build/Debug -F/Users/Hoonio/Documents/Apps/WhatATool/build/Debug -filelist /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/Hoonio/Documents/Apps/WhatATool/build/Debug/WhatATool0#
+
+CProcessPCH /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s288633981.595508
+e288633988.809456
+r1
+xProcessPCH
+x/var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch.gch
+xWhatATool_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile WhatATool_Prefix.pch288633981#288633988#0(0"0(0#0#59"/Users/Hoonio/Documents/Apps/WhatATool/WhatATool_Prefix.pch4300885448#1394"    cd /Users/Hoonio/Documents/Apps/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Hoonio/Documents/Apps/WhatATool/build/Debug -I/Users/Hoonio/Documents/Apps/WhatATool/build/Debug/include -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources/x86_64 -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources -c /Users/Hoonio/Documents/Apps/WhatATool/WhatATool_Prefix.pch -o /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch.gch0#
+

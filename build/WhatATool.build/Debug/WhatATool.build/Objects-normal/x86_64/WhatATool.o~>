@@ -1,0 +1,4 @@
+/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m: In function 'main':
+/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m:96: warning: multiple methods named '-init' found
+/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:72: warning: using '-(id)init'
+/Users/Hoonio/Documents/Apps/WhatATool/PolygonShape.h:35: warning: also found '-(void)init'

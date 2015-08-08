@@ -1,0 +1,88 @@
+TWhatATool
+v7
+r0
+t288633989.000949
+cCheck dependencies
+cProcessPCH /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o /Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004AB9AA2700000000000013E6
+t1253681703
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004AD8432D0000000000B37440
+t1255686957
+s11760704
+
+N/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m
+c000000004B83FCFB0000000000000372
+t1266941179
+s882
+i<Foundation/Foundation.h>
+
+N/Users/Hoonio/Documents/Apps/WhatATool/WhatATool_Prefix.pch
+c000000004B8347D200000000000000A0
+t1266894802
+s160
+i<Foundation/Foundation.h>
+
+N/Users/Hoonio/Documents/Apps/WhatATool/build/Debug/WhatATool
+t2
+s0
+
+N/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.LinkFileList
+c000000004B83FCFD0000000000000075
+t1266941181
+s117
+
+N/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o
+t2
+s0
+
+N/var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch.gch
+t1266941188
+s41405200
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288633981#288633981#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o /Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s288633988.809600
+e288633989.000873
+r0
+xCompileC
+xbuild/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o
+x/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m: In function 'PrintPathInfo':
+o/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m:7: error: expected ':' before ']' token
+o/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m:7: confused by earlier errors, bailing out
+lSLF07#2@58"Compile /Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m288633988#288633989#0(266"/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m: In function 'PrintPathInfo':/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m:7: error: expected ':' before ']' token/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m:7: confused by earlier errors, bailing out2(4@29"Expected ':' before ']' token288633988#81#91#0(6@50"/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m288633979#7#0#7#0#19"expected * before *0(4@39"Confused by earlier errors, bailing out288633988#172#94#0(6@50"/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m288633979#7#0#7#0#39"confused by earlier errors, bailing out0(0#0#50"/Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m4300885448#1500"    cd /Users/Hoonio/Documents/Apps/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Hoonio/Documents/Apps/WhatATool/build/Debug -I/Users/Hoonio/Documents/Apps/WhatATool/build/Debug/include -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources/x86_64 -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources -include /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch -c /Users/Hoonio/Documents/Apps/WhatATool/WhatATool.m -o /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/Objects-normal/x86_64/WhatATool.o1#
+
+CLd /Users/Hoonio/Documents/Apps/WhatATool/build/Debug/WhatATool normal x86_64
+r0
+
+CProcessPCH /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch.gch WhatATool_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s288633981.595508
+e288633988.809456
+r1
+xProcessPCH
+x/var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch.gch
+xWhatATool_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile WhatATool_Prefix.pch288633981#288633988#0(0"0(0#0#59"/Users/Hoonio/Documents/Apps/WhatATool/WhatATool_Prefix.pch4300885448#1394"    cd /Users/Hoonio/Documents/Apps/WhatATool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-generated-files.hmap -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-own-target-headers.hmap -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-all-target-headers.hmap -iquote /Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/WhatATool-project-headers.hmap -F/Users/Hoonio/Documents/Apps/WhatATool/build/Debug -I/Users/Hoonio/Documents/Apps/WhatATool/build/Debug/include -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources/x86_64 -I/Users/Hoonio/Documents/Apps/WhatATool/build/WhatATool.build/Debug/WhatATool.build/DerivedSources -c /Users/Hoonio/Documents/Apps/WhatATool/WhatATool_Prefix.pch -o /var/folders/BI/BIbb50C5HKmwfQZhGKkEGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WhatATool_Prefix-awwhhpqauuzsvtdxqbmklwemptmk/WhatATool_Prefix.pch.gch0#
+

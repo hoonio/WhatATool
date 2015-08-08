@@ -1,0 +1,14 @@
+/Users/Hoonio/Documents/Apps/WhatATool/Person.m: In function '-[Person initWithNumberOfSides:minimumNumberOfSides:maximumNumberOfSides:]':
+/Users/Hoonio/Documents/Apps/WhatATool/Person.m:48: warning: control reaches end of non-void function
+/Users/Hoonio/Documents/Apps/WhatATool/Person.m: In function '-[Person init]':
+/Users/Hoonio/Documents/Apps/WhatATool/Person.m:50: warning: conflicting types for '-(void)init'
+/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:72: warning: previous declaration of '-(id)init'
+/Users/Hoonio/Documents/Apps/WhatATool/Person.m: In function '-[Person angleInDegrees]':
+/Users/Hoonio/Documents/Apps/WhatATool/Person.m:57: warning: conflicting types for '-(id)angleInDegrees'
+/Users/Hoonio/Documents/Apps/WhatATool/Person.h:25: warning: previous declaration of '-(float)angleInDegrees'
+/Users/Hoonio/Documents/Apps/WhatATool/Person.m:58: warning: return makes pointer from integer without a cast
+/Users/Hoonio/Documents/Apps/WhatATool/Person.m: In function '-[Person angleInRadians]':
+/Users/Hoonio/Documents/Apps/WhatATool/Person.m:61: warning: conflicting types for '-(id)angleInRadians'
+/Users/Hoonio/Documents/Apps/WhatATool/Person.h:26: warning: previous declaration of '-(float)angleInRadians'
+/Users/Hoonio/Documents/Apps/WhatATool/Person.m:62: error: incompatible types in return
+/Users/Hoonio/Documents/Apps/WhatATool/Person.m:63: warning: control reaches end of non-void function
